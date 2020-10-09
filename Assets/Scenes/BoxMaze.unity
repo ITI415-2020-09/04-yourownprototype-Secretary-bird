@@ -12004,6 +12004,10 @@ PrefabInstance:
       propertyPath: CameraOrb
       value: 
       objectReference: {fileID: 555730501}
+    - target: {fileID: 296963917509482879, guid: 28324d55f95c100429fc5c38eac38c68, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28324d55f95c100429fc5c38eac38c68, type: 3}
 --- !u!1001 &1238352280
