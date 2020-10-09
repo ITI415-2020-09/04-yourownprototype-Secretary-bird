@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BoxMaze.unity
+    guid: 5138fae3d68f05a438c5a4b97145c7ef
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 756a4bb93cb54ca4dac276cb0cf8c467, type: 2}
